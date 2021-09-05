@@ -1,0 +1,16 @@
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\bin\Debug\Project5.exe.config
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\bin\Debug\Project5.exe
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\bin\Debug\Project5.pdb
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\EmployeeList.g.cs
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\App.g.cs
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5_MarkupCompile.cache
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5_MarkupCompile.lref
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\EmployeeList.baml
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.g.resources
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.Properties.Resources.resources
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.csproj.GenerateResource.cache
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.exe
+C:\TRAINING\WPF-Self-PiTech\Level1\Project5\Project5\obj\Debug\Project5.pdb
